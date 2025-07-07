@@ -99,10 +99,6 @@ This tool is especially helpful for teams standardizing BOM reporting, automatin
 - NXOpen API errors typically indicate version or permissions mismatches.
 - For debugging, use the `Guide.InfoWriteLine` or `Echo` subroutines in the code to print diagnostic output.
 
-## Contributing
-
-Contributions, issues, and pull requests are welcome! Please open an issue for feature requests or bug reports.
-
 ---
 
 **Author:** [DWeller1013](https://github.com/DWeller1013)  
